@@ -1,0 +1,507 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 4.3
+# Built for Windows32
+# Copyright (C) 1988-2020 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+
+# Make data base, printed on Wed Dec 15 22:32:36 2021
+
+# Variables
+
+# environment
+SYSTEMDRIVE = C:
+# environment
+JAVA_HOME = C:\Program Files\Java\jdk-13.0.1
+# makefile (from 'Makefile', line 12)
+PYTHON-LIB = D:\Python3.8\libs\python38.lib
+# environment
+LC_ALL = C
+# environment
+USERPROFILE = C:\Users\12701
+# environment
+LOCALAPPDATA = C:\Users\12701\AppData\Local
+# environment
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-db47f058-00c5-40b8-bcd0-50a79e5ba7df-sock
+# environment
+VSCODE_CWD = C:\Users\12701\AppData\Local\Programs\Microsoft VS Code
+# environment
+CHOCOLATEYINSTALL = C:\ProgramData\chocolatey
+# environment
+SYSTEMROOT = C:\WINDOWS
+# environment
+PROCESSOR_LEVEL = 6
+# environment
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+# default
+MAKE_COMMAND := C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe
+# automatic
+@D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_20200_OPJISHSLLVBSDJVZ
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# default
+.VARIABLES := 
+# automatic
+%D = $(patsubst %/,%,$(patsubst %\,%,$(dir $%)))
+# automatic
+^D = $(patsubst %/,%,$(patsubst %\,%,$(dir $^)))
+# environment
+VSCODE_LOG_STACK = false
+# automatic
+%F = $(notdir $%)
+# environment
+VSCODE_CODE_CACHE_PATH = C:\Users\12701\AppData\Roaming\Code\CachedData\fe719cd3e5825bf14e14182fddeb88ee8daf044f
+# environment
+LANG = C
+# default
+.LOADED := 
+# environment
+TMP = C:\Users\12701\AppData\Local\Temp
+# default
+.INCLUDE_DIRS = .
+# environment
+PROCESSOR_ARCHITEW6432 = AMD64
+# makefile
+MAKEFLAGS = pqrR
+# makefile (from 'Makefile', line 10)
+PYTHON_CONFIG = python3-config --embed 
+# environment
+INTEL_DEV_REDIST = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
+# environment
+ONEDRIVE = C:\Users\12701\OneDrive
+# makefile
+CURDIR := d:/2021 fall/Artificial Intelligence/Homework/HW9/hw9WumpusWorld
+# environment
+VSCODE_PIPE_LOGGING = true
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+# automatic
+*D = $(patsubst %/,%,$(patsubst %\,%,$(dir $*)))
+# environment
+PROGRAMFILES = C:\Program Files (x86)
+# environment
+MFLAGS = -pqrR
+# default
+.SHELLFLAGS := -c
+# environment
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# automatic
++D = $(patsubst %/,%,$(patsubst %\,%,$(dir $+)))
+# makefile (from 'Makefile', line 6)
+PYTHON-DEF = -DPYTHON
+# makefile (from 'Makefile', line 1)
+MAKEFILE_LIST := Makefile
+# automatic
+@F = $(notdir $@)
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+VSCODE_PID = 20200
+# automatic
+?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
+# makefile (from 'Makefile', line 11)
+PYTHON-INC = -I D:\Python3.8\include
+# automatic
+*F = $(notdir $*)
+# automatic
+<D = $(patsubst %/,%,$(patsubst %\,%,$(dir $<)))
+# environment
+VSCODE_NLS_CONFIG = {"locale":"zh-cn","availableLanguages":{"*":"zh-cn"},"_languagePackId":"85dc8b33bfa057e31dfd84e9a10f67e1.zh-cn","_translationsConfigFile":"C:\\Users\\12701\\AppData\\Roaming\\Code\\clp\\85dc8b33bfa057e31dfd84e9a10f67e1.zh-cn\\tcf.json","_cacheRoot":"C:\\Users\\12701\\AppData\\Roaming\\Code\\clp\\85dc8b33bfa057e31dfd84e9a10f67e1.zh-cn","_resolvedLanguagePackCoreLocation":"C:\\Users\\12701\\AppData\\Roaming\\Code\\clp\\85dc8b33bfa057e31dfd84e9a10f67e1.zh-cn\\fe719cd3e5825bf14e14182fddeb88ee8daf044f","_corruptedFile":"C:\\Users\\12701\\AppData\\Roaming\\Code\\clp\\85dc8b33bfa057e31dfd84e9a10f67e1.zh-cn\\corrupted.info","_languagePackSupport":true}
+# environment
+ONEDRIVECONSUMER = C:\Users\12701\OneDrive
+# default
+MAKE_HOST := Windows32
+# environment
+PROGRAMDATA = C:\ProgramData
+# default
+SHELL := sh.exe
+# environment
+HOMEPATH = \Users\12701
+# default
+MAKECMDGOALS := all
+# environment
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# environment
+COMSPEC = C:\WINDOWS\system32\cmd.exe
+# environment
+WINDIR = C:\WINDOWS
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+PATH = D:\Python3.8\Scripts\;D:\Python3.8\;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Java\jdk-13.0.1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\CMake\bin;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\GnuWin32\bin;D:\mingw-w64\mingw64\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;D:\Git\cmd;C:\Users\12701\AppData\Local\Microsoft\WindowsApps;D:\Bandizip\;C:\Users\12701\AppData\Local\GitHubDesktop\bin;C:\Users\12701\AppData\Local\Programs\Microsoft VS Code\bin
+# environment
+ZES_ENABLE_SYSMAN = 1
+# environment
+COMPUTERNAME = DESKTOP-T96V1V9
+# default
+MAKEFILES := 
+# automatic
+^F = $(notdir $^)
+# environment
+PROMPT = $P$G
+# environment
+CHOCOLATEYLASTPATHUPDATE = 132756958555446660
+# environment
+LOGONSERVER = \\DESKTOP-T96V1V9
+# environment
+VSCODE_LOG_NATIVE = false
+# environment
+USERNAME = 12701
+# environment
+COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
+# automatic
+?F = $(notdir $?)
+# environment
+PROGRAMW6432 = C:\Program Files
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+# automatic
++F = $(notdir $+)
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# makefile (from 'Makefile', line 4)
+OBJECTS = Action.o Agent.o Location.o Orientation.o Percept.o WumpusWorld.o Search.o
+# environment
+USERDOMAIN = DESKTOP-T96V1V9
+# 'override' directive
+GNUMAKEFLAGS := 
+# environment
+OS = Windows_NT
+# environment
+__COMPAT_LAYER = DetectorsAppHealth
+# makefile
+.DEFAULT_GOAL := all
+# default
+MAKE_VERSION := 4.3
+# environment
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# makefile (from 'Makefile', line 7)
+PYTHON-OBJ = Action.o PyAgent.o Location.o Orientation.o Percept.o WumpusWorld.o Search.o
+# environment
+USERDOMAIN_ROAMINGPROFILE = DESKTOP-T96V1V9
+# environment
+NUMBER_OF_PROCESSORS = 12
+# environment
+PUBLIC = C:\Users\Public
+# environment
+PYTHONPATH = D:\2021 fall\Artificial Intelligence\Homework\HW2\wumpus-world-simulator-master
+# environment
+APPDATA = C:\Users\12701\AppData\Roaming
+# environment
+HOMEDRIVE = C:
+# environment
+PROCESSOR_ARCHITECTURE = x86
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/services/extensions/node/extensionHostProcess
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+TEMP = C:\Users\12701\AppData\Local\Temp
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\441e16ad99215c5d351051394ba1ff3f-1.63.1-main-sock
+# default
+.RECIPEPREFIX := 
+# automatic
+<F = $(notdir $<)
+# default
+SUFFIXES := 
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# environment
+SESSIONNAME = Console
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync load
+# environment
+MIC_LD_LIBRARY_PATH = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\compiler\lib\mic
+# environment
+PROCESSOR_REVISION = 9e0a
+# makefile (from 'Makefile', line 3)
+CC = c++
+# environment
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+# variable set hash-table stats:
+# Load=108/1024=11%, Rehash=0, Collisions=12/141=9%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (key d:/2021 fall/Artificial Intelligence/Homework/HW9/hw9WumpusWorld, mtime 1637219196): 42 files, no impossibilities.
+
+# 42 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+pywumpsim: wumpsim.h wumpsim.cc Action.o PyAgent.o Location.o Orientation.o Percept.o WumpusWorld.o Search.o
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 29):
+	$(CC) -o pywumpsim wumpsim.cc $(PYTHON-DEF) $(PYTHON-INC) $(PYTHON-OBJ) $(PYTHON-LIB)
+
+# Not a target:
+Percept.h:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+wumpsim.h:
+#  Implicit rule search has been done.
+#  Last modified 2021-09-02 23:38:26
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+Orientation.h:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+Action.h:
+#  Implicit rule search has been done.
+#  Last modified 2021-09-02 23:38:26
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+PyAgent.cc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+WumpusWorld.h:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+Action.o: Action.h Action.cc
+#  Implicit rule search has not been done.
+#  Last modified 2021-11-11 13:58:56
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 35):
+	$(CC) -c Action.cc
+
+Orientation.o: Orientation.h Orientation.cc
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 47):
+	$(CC) -c Orientation.cc
+
+# Not a target:
+Orientation.cc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  Last modified 2021-11-11 13:58:48
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+Search.cc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+Percept.cc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+clean:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 59):
+	rm -rf *.o *.pyc __pycache__ wumpsim pywumpsim
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+Agent.cc:
+#  Implicit rule search has been done.
+#  Last modified 2021-09-28 00:06:00
+#  File has been updated.
+#  Successfully updated.
+
+all: wumpsim
+#  Command line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/4=0%
+
+PyAgent.o: PyAgent.h PyAgent.cc
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 41):
+	$(CC) -c PyAgent.cc $(PYTHON-INC)
+
+# Not a target:
+Search.h:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+WumpusWorld.o: WumpusWorld.h WumpusWorld.cc
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 53):
+	$(CC) -c WumpusWorld.cc
+
+# Not a target:
+Location.h:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+Agent.o: Agent.h Agent.cc
+#  Implicit rule search has not been done.
+#  Implicit/static pattern stem: ''
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# automatic
+# @ := Agent.o
+# automatic
+# * := 
+# automatic
+# < := Agent.h
+# automatic
+# + := Agent.h Agent.cc
+# automatic
+# % := 
+# automatic
+# ^ := Agent.h Agent.cc
+# automatic
+# ? := Agent.h Agent.cc
+# automatic
+# | := 
+# variable set hash-table stats:
+# Load=8/32=25%, Rehash=0, Collisions=2/12=17%
+#  recipe to execute (from 'Makefile', line 38):
+	$(CC) -c Agent.cc
+
+Location.o: Location.h Location.cc
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 44):
+	$(CC) -c Location.cc
+
+# Not a target:
+WumpusWorld.cc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+wumpsim: wumpsim.h wumpsim.cc Action.o Agent.o Location.o Orientation.o Percept.o WumpusWorld.o Search.o
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/4=0%
+#  recipe to execute (from 'Makefile', line 32):
+	$(CC) -o wumpsim wumpsim.cc $(OBJECTS)
+
+# Not a target:
+wumpsim.cc:
+#  Implicit rule search has been done.
+#  Last modified 2021-11-11 14:04:55
+#  File has been updated.
+#  Successfully updated.
+
+Search.o: Search.h Search.cc
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 56):
+	$(CC) -c Search.cc
+
+# Not a target:
+Action.cc:
+#  Implicit rule search has been done.
+#  Last modified 2021-09-02 23:38:26
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+Agent.h:
+#  Implicit rule search has been done.
+#  Last modified 2021-09-28 00:06:00
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+PyAgent.h:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+Percept.o: Percept.h Percept.cc
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 50):
+	$(CC) -c Percept.cc
+
+# Not a target:
+.SUFFIXES:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+Location.cc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# files hash-table stats:
+# Load=33/1024=3%, Rehash=0, Collisions=6/89=7%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 49 / storage = 535 B / avg = 10 B
+# current buf: size = 8174 B / used = 535 B / count = 49 / avg = 10 B
+
+# strcache performance: lookups = 109 / hit rate = 55%
+# hash-table stats:
+# Load=49/8192=1%, Rehash=0, Collisions=0/109=0%
+# Finished Make data base on Wed Dec 15 22:32:36 2021
+
+ 
