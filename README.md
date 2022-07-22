@@ -1,4 +1,5 @@
 # Aritificial-Intelligence-Project
+Wumpus World Simulator is written by Larry Holder (holder@wsu.edu). Tengyang is responsible for the implementation of search algorithms and heuristic functions.
 ## Quick Start
 To try out the simulator, install the code on a UNIX system (or a system that has the 'make' program installed and a C++ compiler). Type 'make' to build the 'wumpsim' executable. Then, type './wumpsim'. You should see a randomly-generated 4x4 world, information about the game state, and a prompt for the next action. When the game is over, scoring information is provided.
 
